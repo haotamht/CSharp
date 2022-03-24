@@ -1,0 +1,7 @@
+<project outputDir="D:\C#\GetVoucher\GetVoucher\bin\Debug\Confused" baseDir="D:\C#\GetVoucher\GetVoucher\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <module path="GetVoucher.exe">
+    <rule pattern="true" inherit="false">
+      <protection id="ctrl flow" />
+    </rule>
+  </module>
+</project>

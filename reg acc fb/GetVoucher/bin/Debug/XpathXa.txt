@@ -1,0 +1,6 @@
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[2]
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[3]
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[5]
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[6]
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[7]
+//*[@id="container"]/div/div/div/div[1]/div[5]/select/option[9]

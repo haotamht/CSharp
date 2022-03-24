@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVoucher", "GetVoucher\GetVoucher.csproj", "{DE01089E-C294-406D-B796-8A1CB9051757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE01089E-C294-406D-B796-8A1CB9051757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE01089E-C294-406D-B796-8A1CB9051757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE01089E-C294-406D-B796-8A1CB9051757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE01089E-C294-406D-B796-8A1CB9051757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D28F2C-50A6-49E9-9265-5F0E24B0B71D}
+	EndGlobalSection
+EndGlobal

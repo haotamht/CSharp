@@ -1,0 +1,12 @@
+F:\getotpmaill\getmail-2\getMail\getMail\bin\Debug\getMail.exe.config
+F:\getotpmaill\getmail-2\getMail\getMail\bin\Debug\getMail.exe
+F:\getotpmaill\getmail-2\getMail\getMail\bin\Debug\getMail.pdb
+F:\getotpmaill\getmail-2\getMail\getMail\bin\Debug\EAGetMail.dll
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.csproj.AssemblyReference.cache
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.Form1.resources
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.Properties.Resources.resources
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.csproj.GenerateResource.cache
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.csproj.CoreCompileInputs.cache
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.csproj.CopyComplete
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.exe
+F:\getotpmaill\getmail-2\getMail\getMail\obj\Debug\getMail.pdb

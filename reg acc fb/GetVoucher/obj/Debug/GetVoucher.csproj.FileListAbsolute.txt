@@ -1,0 +1,150 @@
+D:\C#\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe.config
+D:\C#\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe
+D:\C#\GetVoucher\GetVoucher\bin\Debug\GetVoucher.pdb
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.exe
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.pdb
+D:\C#\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+D:\C#\GetVoucher\GetVoucher\bin\Debug\xNet.dll
+D:\C#\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+D:\C#\GetVoucher\GetVoucher\bin\Debug\Nancy.dll
+D:\C#\GetVoucher\GetVoucher\bin\Debug\WebDriver.dll
+D:\C#\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.dll
+D:\C#\GetVoucher\GetVoucher\bin\Debug\Nancy.xml
+D:\C#\GetVoucher\GetVoucher\bin\Debug\WebDriver.xml
+D:\C#\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.xml
+D:\C#\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\Administrator\Desktop\12T10\GetVoucher\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csprojAssemblyReference.cache
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\chi\Documents\Zalo Received Files\GetVoucher\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\Administrator\Desktop\13T0\ConChimNon\GetVoucher\GetVoucher\obj\Debug\GetVoucher.pdb
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe.config
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\GetVoucher.exe
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\GetVoucher.pdb
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\Nancy.dll
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\WebDriver.dll
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.dll
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\Nancy.xml
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\WebDriver.xml
+E:\C#\A\GetVoucher\GetVoucher\bin\Debug\WebDriver.Support.xml
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csprojAssemblyReference.cache
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.exe
+E:\C#\A\GetVoucher\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\dang hao\OneDrive\Máy tính\reg acc fb\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\DangHao\Desktop\24.10.2021\24.10.2021\all tool\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe.config
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\GetVoucher.exe
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\GetVoucher.pdb
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\Nancy.dll
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\WebDriver.dll
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.dll
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\Nancy.xml
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\WebDriver.xml
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\bin\Debug\WebDriver.Support.xml
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Form1.resources
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.Properties.Resources.resources
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.GenerateResource.cache
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CoreCompileInputs.cache
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.exe
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.pdb
+C:\Users\DangHao\Desktop\reg acc fb\GetVoucher\obj\Debug\GetVoucher.csproj.CopyComplete
